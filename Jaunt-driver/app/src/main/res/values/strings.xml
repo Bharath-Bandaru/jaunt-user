@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JauntDriver</string>
+    <string name="title_activity_maps">Jaunt driver</string>
+    <string name="google_maps_api_key">AIzaSyBFfbhbSRdMGl230j-U4__d-mSxhmeuOps</string>
+
+</resources>
